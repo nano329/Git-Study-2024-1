@@ -1,0 +1,17 @@
+commit ee578d9c9dfdceec07319350296dd13dab554a55 (HEAD -> main)
+Author: nano329 <nano329@naver.com>
+Date:   Thu May 16 15:12:55 2024 +0900
+
+    24 하준서 assignment 2-2
+
+commit bf3e8fa1cd170691c42df6a3cdbad146aaeb850f (origin/main)
+Author: nano329 <nano329@naver.com>
+Date:   Tue May 14 18:51:17 2024 +0900
+
+    24 하준서 assignment 2-1
+
+commit 3b5cc1e70bcf9ff809b4de63d9fe63520b30cdd7
+Author: nano329 <nano329@naver.com>
+Date:   Tue May 14 09:59:13 2024 +0900
+
+    first commit
